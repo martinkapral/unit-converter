@@ -89,7 +89,6 @@ body {
   margin: 0;
   background-color: var(--clr-bg);
   font-family: var(--ff-accent);
-  transform: scale(0.8);
 }
 
 .container {
